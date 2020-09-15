@@ -1,3 +1,3 @@
 # Learning-R
 
-This repository contains the files to learn basics of R (programming language)
+This repository contain files to learn basics of R (programming language)
